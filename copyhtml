@@ -1,0 +1,277 @@
+<!doctype html>
+
+    <link rel="stylesheet" href="https://gitcdn.link/cdn/beetlejuicerus/files/main/css/style2.css">
+    
+
+<section class="reviews-section">
+<div class="grid">
+<div class="reviews-wrapper">
+<div class="swiper-container swiper-container_reviews viewed-rev">
+<div class="swiper-navigation-prev swiper__btn prev-btn"></div>
+<div class="swiper-navigation-next swiper__btn next-btn"></div>
+<div class="swiper-pagination"></div>
+<div class="swiper-scrollbar"></div>
+<div class="swiper-wrapper">
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<video class="story-content" loop="loop" autoplay="autoplay" preload="none" muted="" webkit-playsinline="" playsinline="" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/1.mp4?raw=true">
+</video>
+<img class="slider-play" src="https://raw.githubusercontent.com/beetlejuicerus/files/aff2960e9b11d8f00cb89f2d47509d95bd5ecb94/img/play.svg" alt="play">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<img class="story-content" src="https://github.com/beetlejuicerus/files/blob/main/video/pic6.jpg?raw=true">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<video class="story-content" loop="loop" autoplay="autoplay" preload="none" muted="" webkit-playsinline="" playsinline="" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/6.mp4?raw=true">
+</video>
+<img class="slider-play" src="https://raw.githubusercontent.com/beetlejuicerus/files/aff2960e9b11d8f00cb89f2d47509d95bd5ecb94/img/play.svg" alt="play">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<img class="story-content" src="https://github.com/beetlejuicerus/files/blob/main/video/pic7.jpg?raw=true">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<img class="story-content" src="https://github.com/beetlejuicerus/files/blob/main/video/pic1.jpg?raw=true">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<video class="story-content" loop="loop" autoplay="autoplay" preload="none" muted="" webkit-playsinline="" playsinline="" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/7.mp4?raw=true">
+</video>
+<img class="slider-play" src="https://raw.githubusercontent.com/beetlejuicerus/files/aff2960e9b11d8f00cb89f2d47509d95bd5ecb94/img/play.svg" alt="play">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<video class="story-content" loop="loop" autoplay="autoplay" preload="none" muted="" webkit-playsinline="" playsinline="" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/5.mp4?raw=true">
+</video>
+<img class="slider-play" src="https://raw.githubusercontent.com/beetlejuicerus/files/aff2960e9b11d8f00cb89f2d47509d95bd5ecb94/img/play.svg" alt="play">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<video class="story-content" loop="loop" autoplay="autoplay" preload="none" muted="" webkit-playsinline="" playsinline="" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/8.mp4?raw=true">
+</video>
+<img class="slider-play" src="https://raw.githubusercontent.com/beetlejuicerus/files/aff2960e9b11d8f00cb89f2d47509d95bd5ecb94/img/play.svg" alt="play">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<video class="story-content" loop="loop" autoplay="autoplay" preload="none" muted="" webkit-playsinline="" playsinline="" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/3.mp4?raw=true">
+</video>
+<img class="slider-play" src="https://raw.githubusercontent.com/beetlejuicerus/files/aff2960e9b11d8f00cb89f2d47509d95bd5ecb94/img/play.svg" alt="play">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<video class="story-content" loop="loop" autoplay="autoplay" preload="none" muted="" webkit-playsinline="" playsinline="" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/11.mp4?raw=true">
+</video>
+<img class="slider-play" src="https://raw.githubusercontent.com/beetlejuicerus/files/aff2960e9b11d8f00cb89f2d47509d95bd5ecb94/img/play.svg" alt="play">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<img class="story-content" src="https://github.com/beetlejuicerus/files/blob/main/video/pic8.jpg?raw=true">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<video class="story-content" loop="loop" autoplay="autoplay" preload="none" muted="" webkit-playsinline="" playsinline="" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/9.mp4?raw=true">
+</video>
+<img class="slider-play" src="https://raw.githubusercontent.com/beetlejuicerus/files/aff2960e9b11d8f00cb89f2d47509d95bd5ecb94/img/play.svg" alt="play">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<video class="story-content" loop="loop" autoplay="autoplay" preload="none" muted="" webkit-playsinline="" playsinline="" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/10.mp4?raw=true">
+</video>
+<img class="slider-play" src="https://raw.githubusercontent.com/beetlejuicerus/files/aff2960e9b11d8f00cb89f2d47509d95bd5ecb94/img/play.svg" alt="play">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<img class="story-content" src="https://github.com/beetlejuicerus/files/blob/main/video/pic9.jpg?raw=true">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<video class="story-content" loop="loop" autoplay="autoplay" preload="none" muted="" webkit-playsinline="" playsinline="" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/12.mp4?raw=true">
+</video>
+<img class="slider-play" src="https://raw.githubusercontent.com/beetlejuicerus/files/aff2960e9b11d8f00cb89f2d47509d95bd5ecb94/img/play.svg" alt="play">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<video class="story-content" loop="loop" autoplay="autoplay" preload="none" muted="" webkit-playsinline="" playsinline="" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/2.mp4?raw=true">
+</video>
+<img class="slider-play" src="https://raw.githubusercontent.com/beetlejuicerus/files/aff2960e9b11d8f00cb89f2d47509d95bd5ecb94/img/play.svg" alt="play">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<video class="story-content" loop="loop" autoplay="autoplay" preload="none" muted="" webkit-playsinline="" playsinline="" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/4.mp4?raw=true">
+</video>
+<img class="slider-play" src="https://raw.githubusercontent.com/beetlejuicerus/files/aff2960e9b11d8f00cb89f2d47509d95bd5ecb94/img/play.svg" alt="play">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<img class="story-content" src="https://github.com/beetlejuicerus/files/blob/main/video/pic2.jpg?raw=true">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<img class="story-content" src="https://github.com/beetlejuicerus/files/blob/main/video/pic3.jpg?raw=true">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<img class="story-content" src="https://github.com/beetlejuicerus/files/blob/main/video/pic4.jpg?raw=true">
+</div>
+<div class="stories-item swiper-slide swiper-video pp_ viewed__card" data-pp="stories">
+<img class="story-content" src="https://github.com/beetlejuicerus/files/blob/main/video/pic5.jpg?raw=true">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+    
+    
+
+
+
+
+<div class="pp pp-video pp-stories" data-pp="stories">
+<div class="pp__bg"></div>
+<div class="pp__content pp-stories__content">
+<div class="swiper-container swiper-container_stories">
+<div class="swiper-navigation-prev"></div>
+<div class="swiper-navigation-next"></div>
+
+<button class="swiper-arrow swiper-arrow-prev"></button>
+<button class="swiper-arrow swiper-arrow-next"></button>
+
+<div class="swiper-wrapper">
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<video class="story-content story-content-pp" webkit-playsinline="" playsinline="" autoplay="" muted="" preload="auto" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/1.mp4?raw=true">
+</video>
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<img class="story-content-pp" src="https://github.com/beetlejuicerus/files/blob/main/video/pic6.jpg?raw=true">
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<video class="story-content story-content-pp" webkit-playsinline="" playsinline="" autoplay="" muted="" preload="auto" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/6.mp4?raw=true">
+</video>
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<img class="story-content-pp" src="https://github.com/beetlejuicerus/files/blob/main/video/pic7.jpg?raw=true">
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<img class="story-content-pp" src="https://github.com/beetlejuicerus/files/blob/main/video/pic1.jpg?raw=true">
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<video class="story-content story-content-pp" webkit-playsinline="" playsinline="" autoplay="" muted="" preload="auto" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/7.mp4?raw=true">
+</video>
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<video class="story-content story-content-pp" webkit-playsinline="" playsinline="" autoplay="" muted="" preload="auto" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/5.mp4?raw=true">
+</video>
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<video class="story-content story-content-pp" webkit-playsinline="" playsinline="" autoplay="" muted="" preload="auto" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/8.mp4?raw=true">
+</video>
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<video class="story-content story-content-pp" webkit-playsinline="" playsinline="" autoplay="" muted="" preload="auto" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/3.mp4?raw=true">
+</video>
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<video class="story-content story-content-pp" webkit-playsinline="" playsinline="" autoplay="" muted="" preload="auto" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/11.mp4?raw=true">
+</video>
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<img class="story-content-pp" src="https://github.com/beetlejuicerus/files/blob/main/video/pic8.jpg?raw=true">
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<video class="story-content story-content-pp" webkit-playsinline="" playsinline="" autoplay="" muted="" preload="auto" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/9.mp4?raw=true">
+</video>
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<video class="story-content story-content-pp" webkit-playsinline="" playsinline="" autoplay="" muted="" preload="auto" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/10.mp4?raw=true">
+</video>
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<img class="story-content-pp" src="https://github.com/beetlejuicerus/files/blob/main/video/pic9.jpg?raw=true">
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<video class="story-content story-content-pp" webkit-playsinline="" playsinline="" autoplay="" muted="" preload="auto" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/12.mp4?raw=true">
+</video>
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<video class="story-content story-content-pp" webkit-playsinline="" playsinline="" autoplay="" muted="" preload="auto" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/2.mp4?raw=true">
+</video>
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<video class="story-content story-content-pp" webkit-playsinline="" playsinline="" autoplay="" muted="" preload="auto" video="" src="https://github.com/beetlejuicerus/files/blob/main/video/4.mp4?raw=true">
+</video>
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<img class="story-content-pp" src="https://github.com/beetlejuicerus/files/blob/main/video/pic2.jpg?raw=true">
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<img class="story-content-pp" src="https://github.com/beetlejuicerus/files/blob/main/video/pic3.jpg?raw=true">
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<img class="story-content-pp" src="https://github.com/beetlejuicerus/files/blob/main/video/pic4.jpg?raw=true">
+</div>
+</div>
+<div class="stories-item stories-item-pp swiper-slide swiper-video">
+<div class="story-line"><span class="story-line-before"></span></div>
+<div class="story-content-wrapper">
+<img class="story-content-pp" src="https://github.com/beetlejuicerus/files/blob/main/video/pic5.jpg?raw=true">
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="pp__close">
+<div class="close__lane lane-white"></div>
+<div class="close__lane lane-white"></div>
+</div>
+</div>
+
+<script src="https://gitcdn.link/cdn/beetlejuicerus/files/main/main.js"></script> 
+
+
+
+
